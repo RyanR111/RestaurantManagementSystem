@@ -1,3 +1,3 @@
-# RestaurantManagementSystem
+# TestRestaurantManagementSystem
 
 A sample for the final project
